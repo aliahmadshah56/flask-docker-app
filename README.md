@@ -19,14 +19,14 @@ This project demonstrates a complete DevOps pipeline — from development to dep
 
 ## 📁 Project Structure
 
-\`\`\`
+
 flask-docker-app/
 ├── app.py              # Flask REST API with 4 endpoints
 ├── requirements.txt    # Python dependencies
 ├── Dockerfile          # Container image instructions
 ├── .dockerignore       # Files excluded from Docker image
 └── README.md           # Project documentation
-\`\`\`
+
 
 ---
 
